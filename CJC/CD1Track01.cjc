@@ -1,0 +1,7 @@
+REM DIRINDEX 1\2,1\3,1\4
+REM DIRNAME cjc126,folder01,folder02,folder03
+TITLE ""
+FILE "CD1Track01.mp3" MP3
+  TRACK 01 AUDIO
+    TITLE "1:cjc126_0001"
+    INDEX 01 00:00:00
